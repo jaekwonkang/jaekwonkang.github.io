@@ -1,5 +1,5 @@
 ---
-title: "Hidden Post"
+title: "히든 포스트"
 hidden: true
 last_modified_at:
 ---
